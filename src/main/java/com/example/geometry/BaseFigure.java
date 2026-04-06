@@ -1,4 +1,4 @@
-package geometry;
+package com.example.geometry;
 
 public interface BaseFigure {
     double getArea();

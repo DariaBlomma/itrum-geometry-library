@@ -1,4 +1,4 @@
-package geometry;
+package com.example.geometry;
 
 public class BaseCircle implements BaseFigure {
     private final double radius;

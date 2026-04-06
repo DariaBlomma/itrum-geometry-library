@@ -1,4 +1,4 @@
-package geometry;
+package com.example.geometry;
 
 public class BaseTriangle implements BaseFigure {
     private final double sideA;

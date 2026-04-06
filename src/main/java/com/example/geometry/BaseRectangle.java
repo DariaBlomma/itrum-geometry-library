@@ -1,4 +1,4 @@
-package geometry;
+package com.example.geometry;
 
 public class BaseRectangle implements  BaseFigure {
     private final double width;
