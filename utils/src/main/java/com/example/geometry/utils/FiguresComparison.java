@@ -8,7 +8,7 @@ public class FiguresComparison {
      * Сравнивает две фигуры по площади.
      * @return 1, -1 или 0
      */
-     public static int  compareByArea(BaseFigure a, BaseTriangle b) {
+     public static int compareByArea(BaseFigure a, BaseFigure b) {
         double area1 = a.getArea();
         double area2 = b.getArea();
 
