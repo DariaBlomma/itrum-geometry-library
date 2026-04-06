@@ -25,4 +25,8 @@ public class FiguresComparison {
 
         return Double.compare(area1, area2);
     }
+
+    public static void printOldMessage(BaseFigure figure) {
+        figure.oldMethod();   // использует метод из core 1.0.0
+    }
 }
